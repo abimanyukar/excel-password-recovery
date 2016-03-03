@@ -1,4 +1,4 @@
-# excel-password-recovery
+# Excel Password Recovery
 Recover forgotten password from excel
 
 
